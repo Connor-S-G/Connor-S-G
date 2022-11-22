@@ -7,7 +7,7 @@
 - My goal after I finish Uni is to work in the tech industry developing world-changing software.
 - I am currently looking for a Summer Internship to broaden my industrial experience, as I believe this would be enriching for me as well as the company I work for.
 
-## Skills and Experience 🫀
+## Skills and Experience 🖥️
 - 4+ Years of experience programming in Python (completing multiple projects).
 - Experience and Understanding of programming in C/C++/C#.
 - Experienced and comfortable working in both Linux and Windows environments.
