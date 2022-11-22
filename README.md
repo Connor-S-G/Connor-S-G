@@ -17,3 +17,4 @@
 - Understanding of HTML, CSS and Javascipt.
 - Cyber Security experience with CyberStart Elite Virtual Summer Camp.
 - Extended Project Qualification (A*) "Could we live fully sustainably on Mars in the near future?"
+- Perse National Coding Challenge Distinction (Top 5%)
