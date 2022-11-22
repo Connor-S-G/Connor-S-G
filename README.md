@@ -16,3 +16,4 @@
 - Creation of multiple mini-games in Unity (C#).
 - Understanding of HTML, CSS and Javascipt.
 - Cyber Security experience with CyberStart Elite Virtual Summer Camp.
+- Extended Project Qualification (A*) "Could we live fully sustainably on Mars in the near future?"
