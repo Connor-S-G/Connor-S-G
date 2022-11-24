@@ -9,7 +9,7 @@
 
 ## Skills and Experience 🖥️
 - 4+ Years of experience programming in Python (completing multiple projects).
-- Experience and Understanding of programming in C/C++/C#.
+- Experience and Understanding of programming in C/C#.
 - Experienced and comfortable working in both Linux and Windows environments.
 - Creation of multiple mini-games in Unity (C#).
 - Understanding of HTML, CSS and Javascipt.
