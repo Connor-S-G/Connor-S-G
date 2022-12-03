@@ -13,7 +13,7 @@
 - Experienced and comfortable working in both Linux and Windows environments.
 - Creation of multiple mini-games in Unity (C#).
 - Understanding of HTML, CSS and Javascipt.
-- Cyber Security experience with CyberStart Elite Virtual Summer Camp.
+- In-depth Cyber Security experience with CyberStart Elite Virtual Summer Camp.
 
 ## Qualifications and Achievements 🧠
 - A\*A\*A\* in Maths, Further Maths, and Computer Science at A-Level.
