@@ -21,3 +21,5 @@
 - Extended Project Qualification (A*) "Could we live fully sustainably on Mars in the near future?"
 - Perse National Coding Challenge Distinction (Top 5%)
 - UKMT Maths Challenge 4xGold medal winner.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Connor-S-G)](https://github.com/Connor-S-G/github-readme-stats)
