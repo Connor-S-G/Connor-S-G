@@ -11,8 +11,8 @@
 - 4+ Years of experience programming in Python (completing multiple projects).
 - Experience and Understanding of programming in C/C#.
 - Experienced and comfortable working in both Linux and Windows environments.
-- Creation of multiple mini-games in Unity (C#).
-- Understanding of HTML, CSS and Javascipt.
+- Creation of multiple mini-games in Unity.
+- Creation of projects using HTML, CSS and Javascipt.
 - In-depth Cyber Security experience with CyberStart Elite Virtual Summer Camp.
 
 ## Qualifications and Achievements 🧠
