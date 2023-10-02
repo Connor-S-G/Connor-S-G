@@ -22,5 +22,9 @@
 - Perse National Coding Challenge Distinction (Top 5%)
 - UKMT Maths Challenge 4xGold medal winner.
 
+## Other Interests
+- Boxing (Owner of https://www.worldboxingacademy.com)
+- Brazilian Jiu Jitsu
+- Playing Guitar and Piano
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Connor-S-G&theme=dracula)](https://github.com/Connor-S-G/github-readme-stats)
