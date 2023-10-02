@@ -2,17 +2,17 @@
 ![ConnorGroom3](https://user-images.githubusercontent.com/56166849/203406038-caa22c4a-c743-4aeb-ac1d-f7e1b1c0a060.png)
 
 ## About me 👀
-- I am 19 years old and a First Year student at the University of Leeds.
+- I am 19 years old and a Second Year student at the University of Leeds.
 - I'm currently studying Computer Science and Mathematics.
-- My goal after I finish Uni is to work in the tech industry developing world-changing software.
-- I am currently looking for a Summer Internship to broaden my industrial experience, as I believe this would be enriching for me as well as the company I work for.
+- My goal after I finish university is to work in the tech industry developing world-changing software.
+- I am currently looking for an Internship or Placement to broaden my industrial experience, as I believe this would be enriching for me as well as the company I work for.
 
 ## Skills and Experience 🖥️
 - 4+ Years of experience programming in Python (completing multiple projects).
 - Experience and Understanding of programming in C/C#.
 - Experienced and comfortable working in both Linux and Windows environments.
-- Creation of multiple mini-games in Unity.
 - Creation of projects using HTML, CSS and Javascipt.
+- Creation of multiple mini-games in Unity.
 - In-depth Cyber Security experience with CyberStart Elite Virtual Summer Camp.
 
 ## Qualifications and Achievements 🧠
