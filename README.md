@@ -2,7 +2,7 @@
 ![ConnorGroom3](https://user-images.githubusercontent.com/56166849/203406038-caa22c4a-c743-4aeb-ac1d-f7e1b1c0a060.png)
 
 ## About me 👀
-- I am 19 years old and a Second Year student at the University of Leeds.
+- Student at the University of Leeds.
 - I'm currently studying Computer Science and Mathematics.
 - My goal after I finish university is to work in the tech industry developing world-changing software.
 - I am currently looking for an Internship or Placement to broaden my industrial experience, as I believe this would be enriching for me as well as the company I work for.
